@@ -20,4 +20,4 @@
 * peminer, ember, tutorial 코드를 응용
 
 ## 최종 정확도
-* 96.07
+* 0.9607
