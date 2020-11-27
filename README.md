@@ -28,7 +28,7 @@
 - 검증데이터 정답.csv
 
 ## 출력 데이터
-**predict.csv** : PEMINER, EMBER, PESTUDIO 각각의 테스트데이터를 학습시킨 AI를 통해 예측 결과를 출력한다.
+**predict.csv** : PEMINER, EMBER, PESTUDIO 각각의 테스트데이터를 학습시킨 AI를 통해 예측 결과를 출력한 파일
 
 ## 솔루션
 - **PEMINER**
